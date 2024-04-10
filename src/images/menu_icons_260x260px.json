@@ -1,0 +1,56 @@
+{
+	"frames": {
+		"bgm": {
+			"frame": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0.5, "y": 0.5
+			}
+		},
+        "se": {
+			"frame": { "x": 260, "y": 0, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0, "y": 0 }
+		},
+        "x": {
+			"frame": { "x": 520, "y": 0, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0, "y": 0 }
+		},
+        "bga": {
+			"frame": { "x": 0, "y": 260, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0.5, "y": 0.5
+			}
+		},
+        "swa": {
+			"frame": { "x": 260, "y": 260, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0, "y": 0 }
+		},
+        "v": {
+			"frame": { "x": 520, "y": 260, "w": 260, "h": 260 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 260 },
+			"sourceSize": { "w": 260, "h": 260 },
+			"anchor": { "x": 0, "y": 0 }
+		}
+	},
+	"animations": { "no": [] },
+	"meta": { "image": "menu_icons_260x260px.png", "format": "RGBA8888", "size": { "w": 780, "h": 520 }, "scale": "1" }
+}

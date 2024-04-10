@@ -1,0 +1,760 @@
+{
+	"frames": {
+		"fishes": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"decors": {
+			"frame": {
+				"x": 160,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"seaweeds": {
+			"frame": {
+				"x": 320,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"backgrounds": {
+			"frame": {
+				"x": 480,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"used": {
+			"frame": {
+				"x": 640,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"lock": {
+			"frame": {
+				"x": 800,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+        "ad": {
+			"frame": {
+				"x": 960,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_clown": {
+			"frame": {
+				"x": 0,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_butterfly": {
+			"frame": {
+				"x": 160,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_discus": {
+			"frame": {
+				"x": 320,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_surgeon": {
+			"frame": {
+				"x": 480,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_gray": {
+			"frame": {
+				"x": 640,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_demasoni": {
+			"frame": {
+				"x": 800,
+				"y": 160,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_sweetlips": {
+			"frame": {
+				"x": 0,
+				"y": 320,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_lion": {
+			"frame": {
+				"x": 160,
+				"y": 320,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_zebrasoma": {
+			"frame": {
+				"x": 320,
+				"y": 320,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"fish_angel": {
+			"frame": {
+				"x": 480,
+				"y": 320,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"jellyfish": {
+			"frame": {
+				"x": 640,
+				"y": 320,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_2": {
+			"frame": {
+				"x": 0,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_3": {
+			"frame": {
+				"x": 160,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_4": {
+			"frame": {
+				"x": 320,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_5": {
+			"frame": {
+				"x": 480,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_6": {
+			"frame": {
+				"x": 640,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"background_7": {
+			"frame": {
+				"x": 800,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+        "background_1": {
+			"frame": {
+				"x": 960,
+				"y": 480,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"seaweed_2": {
+			"frame": {
+				"x": 0,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"seaweed_1": {
+			"frame": {
+				"x": 160,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"seaweed_3": {
+			"frame": {
+				"x": 320,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"decor_1": {
+			"frame": {
+				"x": 480,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"decor_2": {
+			"frame": {
+				"x": 640,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		"decor_3": {
+			"frame": {
+				"x": 800,
+				"y": 640,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			},
+			"anchor": {
+				"x": 0,
+				"y": 0
+			}
+		}
+	},
+	"animations": {
+		"no": []
+	},
+	"meta": {
+		"image": "shop_icons_160x160px.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 960,
+			"h": 800
+		},
+		"scale": "1"
+	}
+}
